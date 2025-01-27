@@ -20,5 +20,5 @@ In this project, i controlled the mouse pointer using my index and middle finger
 
 <p align="center">
 <br/>
-<a href="https://github.com/joshmadakor1">Few snapshots of the Project</a>
+<a href="https://imgur.com/a/BWcYjG3">Few snapshots of the Project</a>
 <br />
